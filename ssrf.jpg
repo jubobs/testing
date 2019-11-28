@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(https://europe-west1-infosec-jub0bs.cloudfunctions.net/echo-request)'
+pop graphic-context
